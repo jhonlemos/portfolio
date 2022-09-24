@@ -1,0 +1,125 @@
+{
+  "menu": {
+    "nav": "navegação",
+    "about": "sobre",
+    "projects": "projetos",
+    "links": "links",
+    "theme": {
+      "dark": "Escuro",
+      "light": "Claro"
+    },
+
+    "talk": "Contatos"
+  },
+  "landing": {
+    "dev": {
+      "front": "Desenvolvedor Front-End",
+      "back": "Desenvolvedor Back-End",
+      "full": "Desenvolvedor Full-Stack"
+    },
+    "text": "Bem vindos ao meu perfil! <span>Sou João victor</span> estudante de desenvolvimento Full Stack, desenvolvedor Front End e entusiasta da área de tecnologia<br /><br />Experimentando e aprendendo com o novo e o tradicional para <span>proporcionar boas experiências</span> e <span>resolver os problemas</span> de futuros clientes.",
+    "scroll": "role para saber mais",
+    "update": "atualizado em: Set / 22"
+  },
+  "about": {
+    "title": "Sobre",
+    "part1": "Neste ano decidi investir na minha carreira na área de tecnologia e recentemente concluí um curso de certificação Front-End na escola de programação Kenzie Academy, onde vivenciei muitos aspectos de um ambiente profissional real, desenvolvendo com prazos pré-estabelecidos, metodologia àgil, trabalhando e gerenciando equipes e atuando como monitor das turmas mais novas, passando conhecimento a frente.",
+    "part2": "Tenho muito o que aprender ainda visto que a área tecnológica está sempre em evolução e expansão, portanto, estou cursando atualmente desenvolvimento Back-End e assim futuramente me tornar desenvolvedor Full Stack. Motivado por experimentar e aprender com o novo e o tradicional pretendo conhecer mais tecnologias e resolver problemas vivencias incríveis experiências que a tecnologia pode proporcionar.",
+    "techs": {
+      "title": "Teconologias & Softwares",
+      "most": "Maior Experiênica",
+      "some": "Em desenvolvimento",
+      "softwares": "Ferramentas"
+    }
+  },
+  "projects": {
+    "title": "Alguns de meus Projetos",
+    "menu": {
+      "all": "Todos",
+      "team": "Em equipe",
+      "study": "Atividades de estudo"
+    },
+    "list": {
+      "geral": {
+        "title": "Atividades já realizadas",
+        "type": "Atividades de estudo",
+        "description": "Um repositório para todas as atividades realizadas até o momento na escola de programação."
+      },
+      "horas": {
+        "title": "Horas Vitais",
+        "type": "Projeto de conclusão",
+        "description": "Uma aplicação web com a função de unir profissionais da saúde a pessoas que não podem pagar por atendimento através de ONG´S que selecionarão um usuário (profissional da área de saúde) que se coloque a disposição para ajudar doando seu tempo livre como um voluntário."
+      },
+
+      "mercado": {
+        "title": "Mercado",
+        "type": "Projeto de Estudo",
+        "description": "Outro projeto de e-commerce, e esse teve três iterações, a primeira em que eu apenas listava os itens, a segunda em que eu adicionei o carrinho, e a terceira em que converti todo o projeto para o paradigma de programação orientada ao objeto. Como costumo fazer, eu fui além do que pedia o enunciado melhorando o CSS disponibilizado."
+      },
+
+      "blog": {
+        "title": "Blog",
+        "type": "Projeto de Estudo",
+        "description": "Este projeto foi ótimo para aprender mais e praticar validação de formulário e uso de API. Foi desenvolido com JavaScript puro, HTML5 e CSS3. O objetivo era criar um blog comunitário em que apenas usuários cadastrados podem postar, e apenas o dono pode editar ou apagar um post."
+      },
+      "cadastro": {
+        "title": "Cadastro de Pessoas",
+        "type": "Projeto de Estudo",
+        "description": "Projetinho básico para praticar Orientação a objetos no Javasript"
+      },
+
+      "nu": {
+        "title": "Nu Kenzie",
+        "type": "Projeto de Estudo",
+        "description": "Um projeto interessante, foi um dos primeiros utilizando React e os estados (states), e tem duas iterações, uma sem e outra com a lib Styled Components. Nesse projeto a aplicação simula uma carteira digital em que o usuário pode registrar lucros e gastos."
+      },
+      "burguer": {
+        "title": "Hamburgueria",
+        "type": "Projeto de Estudo",
+        "description": "Nesse projeto eu pratiquei o uso de APIs com React, aprendendo mais sobre os rooks do react e a biblioteca Axios. Eu também experimentei criar temas claro e escuro com a Styled Components. Nele criamos um e-commerce de fast-food com produtos de uma API."
+      },
+      "habits": {
+        "title": "Kenzie Habits",
+        "type": "Projeto de Estudo",
+        "description": "Projeto final do Módulo 2."
+      },
+      "hub": {
+        "title": "Kenzie Hub",
+        "type": "Projeto de Estudo",
+        "description": "Nesse projeto o objetivo era integrar as praticas que tivemos em outros projetos, (fomulários e API) em um único projeto de React. A aplicação então simula uma plataforma em que um usuário pode consultar as tecnologias e o nível de cada uma, que outros devs conhecem, e também se cadastrar para registrar suas técnologias."
+      }
+    },
+    "buttons": {
+      "repo": "Repositório",
+      "app": "Aplicação",
+      "video": "Vídeo"
+    }
+  },
+  "links": {
+    "title1": "Links & Currículo",
+    "title2": "Contate-me",
+    "linkedin": {
+      "title": "LinkedIn",
+      "text": "Minha rede social onde estão projetos e experiência profissional."
+    },
+    "github": {
+      "title": "GitHub",
+      "text": "Onde estão meus repositórios de projetos e estudo."
+    },
+    "resume": {
+      "title": "Currículo",
+      "text": "Baixe a versão mais recente do meu currículo."
+    },
+    "whats": {
+      "title": "WhatsApp",
+      "text": "Clique para me contatar no WhatsApp."
+    },
+
+    "email": {
+      "title": "Email",
+      "text": "Tem um feedback, ideia, sugestão ou proposta? clique me escreva um email."
+    },
+
+    "thanks": "Agradeço sua visita!"
+  }
+}
